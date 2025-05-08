@@ -27,7 +27,9 @@ Value: Increased customer retention results to a higher revenue.
 
 ### 2. Data Understanding 
 
-Source: bigml_59c28831336c6604c800002a.csv
+Data Source: Kaggle
+
+Data: bigml_59c28831336c6604c800002a.csv
 
 Rows: 3333  Features: 21
 
