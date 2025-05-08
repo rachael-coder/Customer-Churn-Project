@@ -23,7 +23,7 @@ Translate findings into actionable business insights.
 
 Objective: Reduce customer churn by predicting high-risk individuals.
 
-Value: Increased customer retention results to a higher retention.
+Value: Increased customer retention results to a higher revenue.
 
 ### 2. Data Understanding 
 
@@ -35,3 +35,8 @@ Key columns: intentional plan, voice mail plan, total day minutes, customer call
 
 ### 3. Data Preparations(Cleaning)
 
+Dropped all irrelevant features like state, phone number.
+
+Checked for duplicates and null values.
+
+Scaled numerical features for model compatibility.
