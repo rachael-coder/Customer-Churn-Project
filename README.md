@@ -9,7 +9,7 @@ Customer churn is a major concern in the telecommunications industry. It impacts
 
 ## Objectives
 
-Predict whether a customer will churn or not using service and behavior data.
+Predict whether a customer will churn or not based on certain features.
 
 Build and evaluate a baseline model and a more advanced model.
 
