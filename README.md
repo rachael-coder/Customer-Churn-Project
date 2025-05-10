@@ -115,7 +115,7 @@ The number of customers with the international plan who churn is higher than the
 3. Customers who interact more frequently with customer service are at a higher risk of churning.
 Customers who have made 3-4 customer service calls are a critical segment to target for churn prevention efforts
 
-#### Recommendation
+#### Recommendations
 
 1. While a low churn rate is generally positive for the business, the significant class imbalance in the dataset needed to be carefully addressed during the model development and evaluation to ensure the building of a predictive model that can effectively identify and help prevent churn.
 
