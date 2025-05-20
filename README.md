@@ -75,7 +75,7 @@ Churn by customer service calls
 
 Churn by international/voice mail plans
 
-### Machine Learning Models
+### 5. Machine Learning Models
 Two models were trained and evaluated.
 
 The base model is Logistic Regression Model.
@@ -96,11 +96,11 @@ Confusion Matrix
 
 ROC AUC
 
-### Tableau Dashboard
+### 6. Tableau Dashboard
 
 https://public.tableau.com/app/profile/rachael.nyawira/viz/CustomerChurndashboard_17468769663000/Dashboard1?publish=yes
 
-### Findings and Recommendations
+### 7. Findings and Recommendations
 
  #### Findings
  
@@ -115,15 +115,15 @@ The number of customers with the international plan who churn is higher than the
 3. Customers who interact more frequently with customer service are at a higher risk of churning.
 Customers who have made 3-4 customer service calls are a critical segment to target for churn prevention efforts
 
-#### Recommendation
+#### Recommendations
 
 1. While a low churn rate is generally positive for the business, the significant class imbalance in the dataset needed to be carefully addressed during the model development and evaluation to ensure the building of a predictive model that can effectively identify and help prevent churn.
 
 2. Re-evaluate international plans by:
 
-1. Understanding reasons for high churn rate in international plan users by conducting surveys or analyze the usage patterns and feedback from customers with international plans
+a. Understanding reasons for high churn rate in international plan users by conducting surveys or analyze the usage patterns and feedback from customers with international plans
 
-2. Consider targeted offers or plan adjustments: Based on the findings, explore offering specialized international plans, discounts, or features that better cater to the needs of international users and improve their satisfaction.
+b. Consider targeted offers or plan adjustments: Based on the findings, explore offering specialized international plans, discounts, or features that better cater to the needs of international users and improve their satisfaction.
 
 3. Enhance Customer Service by:
 
